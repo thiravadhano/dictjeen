@@ -5,7 +5,7 @@
 
 ## ข้อมูลพจนานุกรม
 **CC-CEDICT**
-ข้อมูลพจนานุกรมบางส่วนดัดแปลงจาก CC-CEDICT เผยแพร่โดย MDBG (https://www.mdbg.net/chinese/dictionary?page=cc-cedict) ใช้ภายใต้สัญญาอนุญาต Creative Commons Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+ข้อมูลพจนานุกรมบางส่วนดัดแปลงจาก CC-CEDICT ใช้ภายใต้สัญญาอนุญาต [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 อ้างอิงงาน CEDICT © 1997, 1998 Paul Andrew Denisowski
 
 **รายการคำศัพท์ HSK 3.0**
@@ -30,4 +30,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## CC BY-SA 4.0
-ข้อความเต็ม: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[อ่านข้อความสัญญาอนุญาตฉบับเต็ม](https://creativecommons.org/licenses/by-sa/4.0/legalcode)

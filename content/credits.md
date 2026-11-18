@@ -9,7 +9,7 @@
 อ้างอิงงาน CEDICT © 1997, 1998 Paul Andrew Denisowski
 
 **รายการคำศัพท์ HSK 3.0**
-ระดับ HSK ของคำศัพท์อ้างอิงจาก Complete HSK Vocabulary © 2026 Yanis Zafirópulos (https://github.com/drkameleon/complete-hsk-vocabulary) สัญญาอนุญาต MIT
+ระดับ HSK ของคำศัพท์อ้างอิงจาก Complete HSK Vocabulary © 2026 Yanis Zafirópulos สัญญาอนุญาต MIT
 
 ## ไลบรารีโอเพนซอร์ส
 **GRDB.swift** © 2015–2025 Gwendal Roué (https://github.com/groue/GRDB.swift) สัญญาอนุญาต MIT
